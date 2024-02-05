@@ -1,3 +1,4 @@
+#add pattern structure at top of the file
 import java.util.*;
 import java.lang.*;
 
